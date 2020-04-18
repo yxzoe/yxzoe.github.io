@@ -2,9 +2,9 @@
 
 Here is yxzoe, an undergraduate student from SCU/ art person/ cat fancier. Getting myself into baking these days, maybe I'll share some compositions 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my first website and I love it a lot. I regard it as my new-born baby and I'm looking forward to bringing it grow into a powerful website. You can [click here](http://www.yxzoe.github.io/) to enter my blog.
 
-### Markdown
+### Daily Life
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
