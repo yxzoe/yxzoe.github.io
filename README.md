@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my blog
 
-You can use the [editor on GitHub](https://github.com/yxzoe/yxzoe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here is yxzoe, an undergraduate student from SCU/ art person/ cat fancier. Getting myself into baking these days, maybe I'll share some compositions 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
